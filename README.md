@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil♡
 
-<!--
-**mariaclara89/mariaclara89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é'Maria clara
 
-Here are some ideas to get you started:
+-estou estudadando na .[alura](alura.com.br)
+-estou me desenvolvendo na linguagem javaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### contato:
+00001141823020sp@al.educacao.sp.gov.br
+
+
+
+
+
+
+
